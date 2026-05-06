@@ -24,7 +24,7 @@
 ## 📲 Download & Install
 
 ### Direct Install (Easiest)
-1. Go to [**Releases**](https://github.com/e1mostafa/SLMPI-s.git)
+1. Go to [**Releases**](https://github.com/e1mostafa/SLMPI-s/releases/tag/v1.0.0)
 2. Download `SLMPI's.apk`
 3. On your phone: **Settings → Apps → Special Access → Install Unknown Apps**
 4. Allow your browser or file manager
