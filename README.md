@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" alt="TitanBeats Logo"/>
-
 # SLMPI's 🎵
 
 **Offline anime-inspired music player for Android**
